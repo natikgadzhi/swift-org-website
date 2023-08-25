@@ -2,7 +2,7 @@
 layout: post
 published: true
 date: 2023-08-25 12:34:56
-title: SSWG 2023 Annual Update
+title: What's new in Swift debugging on the 5.9 branch?
 author: [adrian-prantl, augustonoronha, kastiglione]
 ---
 
